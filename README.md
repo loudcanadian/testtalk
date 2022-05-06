@@ -1,2 +1,2 @@
 # testtalk
-fun with workflows
+fun with workflows is fun

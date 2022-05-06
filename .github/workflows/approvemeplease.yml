@@ -1,4 +1,4 @@
-name: APPROVE
+name: APPROVEME
  
 on: pull_request # run on pull request events
  
